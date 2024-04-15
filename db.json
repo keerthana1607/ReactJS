@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "Name": "Sena",
+      "Mobile": "32343242",
+      "City": "Coimbatore",
+      "Pincode": "322424"
+    },
+    {
+      "id": "525a",
+      "Name": "Giri",
+      "Mobile": "7777777777",
+      "City": "Madurai",
+      "Pincode": "64356743689"
+    },
+    {
+      "id": "195a",
+      "Name": "cristiano",
+      "Mobile": "1111111111",
+      "City": "Madrid",
+      "Pincode": "625014"
+    },
+    {
+      "id": "6272",
+      "Name": "keerthana p",
+      "Mobile": "09585305894",
+      "City": "mdu",
+      "Pincode": "20"
+    }
+  ],
+  "doctor": [
+    {
+      "id": "525a",
+      "Name": "Giri",
+      "Mobile": "7777777777",
+      "Disease": "Madurai",
+      "Pincode": "64356743689"
+    },
+    {
+      "id": "9c68",
+      "Name": "keerthan",
+      "Mobile": "07777777777",
+      "Disease": "Madurai",
+      "Pincode": "64356743999"
+    },
+    {
+      "id": "51ba",
+      "Name": "keerthanaaa prabu",
+      "Mobile": "09585305894",
+      "Disease": "k",
+      "City": "mdu",
+      "Pincode": "20"
+    }
+  ]
+}
